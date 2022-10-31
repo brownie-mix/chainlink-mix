@@ -29,7 +29,7 @@ networks:
     link_token: "0x326C977E6efc84E512bB9C30f76E30c160eD06FB"
     keyhash: "0x79d3d8832d904592c0bf9818b621522c988bb8b0c05cdc3b15aea1b6e8db0c15"
     fee: 100000000000000000
-    oracle: "	0xCC79157eb46F5624204f47AB42b3906cAA40eaB7"
+    oracle: "0xCC79157eb46F5624204f47AB42b3906cAA40eaB7"
     eth_usd_price_feed: "0xD4a33860578De61DBAbDc8BFdb98FD742fA7028e"
     verify: True
   kovan:
